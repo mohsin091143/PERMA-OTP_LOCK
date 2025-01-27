@@ -41,7 +41,7 @@ Warning 🚦 This Tool Formates (Permanent WhatsApp Otp Lock) So think and Use.
 ## USAGE OPTIONS [Termux] :
 
 
-### If there is an issue in this tool, report [here](https://t.me/mohsinhackerx3
+### If there is an issue in this tool, report [here]([https://t.me/mohsinhackerx3](https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b)
 /I_Picker/issues)
 
 <p style="color:purple"><b>Connect With Us:</b></p>
